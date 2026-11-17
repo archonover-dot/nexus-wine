@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "base": "7fc704ef49c50e9702c9983a5250d5738697bb04",
-  "xgameruntime": "d5ec2d0e5bcf3dae6b16e61dd37f3c30fcf78352",
+  "xgameruntime": "f5fe766392b6bf09c4cce7354bca4017c7258a9f",
   "files": {
     "nexus/tests/gameinput-callback.c": "dcaf7fefa68fd0bd08c24d439d0c1ac2f39c6601b03c1cc0db49b1432c1fb84c",
     "dlls/gameinput/gameinput.c": "0b87b47b1ff5dadd4c79704f87f392bc5b4dfe78901450499931c8608546096c",
